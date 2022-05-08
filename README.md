@@ -1,7 +1,6 @@
-## Light Theme
-![Yoda](https://raw.githubusercontent.com/scarmuega/choose-your-side/master/yoda.svg?sanitize=true#gh-light-mode-only)
 
-## Dark Theme
+
+## Dark Side
 ![Vader](https://raw.githubusercontent.com/scarmuega/choose-your-side/master/vader.svg?sanitize=true#gh-dark-mode-only)
  
  
