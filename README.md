@@ -2,7 +2,7 @@
 
 ## This repository contains a collection of certificates I have earned from various online courses, workshops, and certifications. 
 
-## License
+# License
 
 ## The certificates and related files in this repository are for personal use only and cannot be used for commercial purposes without prior written consent from the original issuers.
 
